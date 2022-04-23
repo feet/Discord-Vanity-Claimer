@@ -1,0 +1,8 @@
+toml
+loguru
+base64
+random
+requests
+colorama
+threading
+fake_useragent

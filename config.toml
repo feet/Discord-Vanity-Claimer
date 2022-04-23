@@ -1,0 +1,15 @@
+token = "1.2.3"
+# put in a user token or a bot token by doing it like this -> "Bot TOKEN" (TOKEN = the token of the bot, ok?)
+
+vanities = ['meow', 'purr', 'nya', 'uwu']
+# vanities to snipe
+
+guilds_ids = ['123','321','666','999']
+# guilds IDs of the guilds to use for sniping
+
+threads = "4"
+# amount of threads to use -> will use more CPU and RAM and more proxy bandwidth
+
+proxies = None # "proxies.txt"
+# create a file with http/s proxies in proxies.txt to use proxies
+# to use other proxies like socks4/socks5, edit it in the code

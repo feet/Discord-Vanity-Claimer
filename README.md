@@ -1,5 +1,5 @@
 # Discord-Vanity-Claimer
-A Discord vanity claimer with multiple Guild support and invite checker uwu
+A Discord vanity claimer that uses fresh User-Agents, has multiple Guild support, proxy support and a invite checker uwu
 > I will not provide support for this program, it's free to use for everyone
 
 1. Download `main.py`, `config.toml` and `requirements.txt`

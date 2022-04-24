@@ -9,4 +9,4 @@ A Discord vanity claimer, built-in invite checker, uses fresh User-Agents, suppo
 5. Have fun! :D
 
 ## There might be some errors, so please use it properly
-## This is a proof of concept, meant for educational purposes only
+### This is a proof of concept, meant for educational purposes only

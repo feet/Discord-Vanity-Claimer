@@ -27,7 +27,7 @@ class claimer:
         self.vanities: list = data.get('vanities')
         self.guild_ids: list = data.get('guild_ids')
         self.threads: str = data.get('threads')
-        self.proxies = data.get('proxies')
+        self.proxies = None if data.get('proxies') == 0 else data.get('proxies')
 
         self.headers = self.create_headers()
 

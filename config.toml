@@ -10,6 +10,7 @@ guilds_ids = ['123','321','666','999']
 threads = "4"
 # amount of threads to use -> will use more CPU and RAM and more proxy bandwidth
 
-proxies = none # "proxies.txt"
+proxies = 0 # "proxies.txt"
 # create a file with http/s proxies in proxies.txt to use proxies
 # to use other proxies like socks4/socks5, edit it in the code
+# put 0 to not use any proxies

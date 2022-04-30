@@ -6,7 +6,7 @@ A Discord vanity claimer, built-in invite checker, uses fresh User-Agents, suppo
 2. Fill out `config.toml` with your vanities, guild IDs, etc.
 3. Download the requirements by running `pip install -r requirements.txt`  in your cmd prompt of the folder
 4. Run/open `main.py` by clicking it or by running `python main.py` in your cmd prompt of the folder
-5. Have fun! :D
+5. More instructions can be found in `config.toml` - Have fun! :D
 
 ## There might be some errors, so please use it properly
 ### This is a proof of concept, meant for educational purposes only
